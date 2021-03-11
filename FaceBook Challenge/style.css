@@ -1,0 +1,145 @@
+
+*{
+    /* border: 1px solid red; */
+    margin: 5px;
+    padding: 2px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: rgb(30, 30, 85);
+
+}
+body{
+    background-color: rgb(229, 235, 238);
+  
+    
+    
+}
+/* body{
+    background-image: url(./imags/Screen\ Shot\ 2016-04-20\ at\ 2.42.16\ PM.png
+        
+    );
+   background-position: center; 
+   background-repeat: no-repeat;
+   background-size: ;
+} */
+
+
+#main-section{
+   
+    width: 90%;
+    height: 900px;
+    margin: 20px auto;
+    border: 1px solid blue;
+    justify-self: auto;
+  padding: 20px;
+}
+#facebook-header{
+    background-color: blue;
+padding: 15px 0px;
+margin: 0%;
+
+display:block;
+text-align: center;
+
+}
+/* justify-content: space-between;
+vertical-align: top */
+;
+#footer-menu  {
+    width: 40%;
+    height: 20px;
+}
+table{
+    height: 200px;
+    width: 60%;
+}
+#header-input{
+    width: 60%;
+    height: 50px;
+    padding: 4px;
+    margin:auto
+    
+    /* text-align:center; */
+    /* display: flex;
+    justify-content: space-between; */
+  
+}
+
+#header-input img{
+    padding: 0%;
+}
+#sub-content-left{
+    width: 40%;
+    height: 600px;
+    padding-left:  120px;
+    margin: auto;
+}
+/* #mainmenu{
+    
+    background-image: url(./imags/Screen\ Shot\ 2016-04-20\ at\ 2.42.16\ PM.png);
+} */
+
+#mainmenu{
+    display: flex;
+    justify-content: space-between;
+    font-weight: 100;
+
+}
+#sub-content-right{
+    width:50%;
+    height: 90px;
+    display:block;
+    
+        font-size: 15px;
+}
+#firstmenu {
+    width: 90%;
+    text-align: center;
+}
+#labelheader{
+    color:seashell 
+
+}
+.block-element{
+    padding: 30px;
+    margin-bottom: 0px;
+    color: cornsilk;
+}
+#input-box{
+    text-align: center;
+
+}
+#birthday-box{
+    width: 70%;
+    margin: auto;
+    /* width: fit-content; */
+ 
+}
+#sign{
+    background-color: darkgreen;
+    border: 3px sold green;
+    text-align: center;
+
+}
+#sign-button{
+    text-align: center;
+      
+} 
+.birth-element{
+    width: 60px;
+    
+
+}
+#info-text{
+    text-align: center;
+    font-size: 20px;
+}
+#secondmenu{
+    width: 80%;
+    text-align: center;
+    margin: auto;
+}
+#footer-menu{
+    width: 50%;
+    padding: 0px 30px;
+    margin: auto;
+}
